@@ -1,0 +1,11 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "semi": true,
+  "arrowParens": "avoid",
+  "printWidth": 120, 
+  "endOfLine": "lf",
+  "parser": "typescript", 
+  "bracketSpacing": true,
+  "plugins": ["prettier-plugin-eslint"]
+}
